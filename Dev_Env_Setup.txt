@@ -1,0 +1,23 @@
+JAVA JDK SET Up
+1) Download latest java jdk
+2) http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+3) Download Java SE Dev Kit 8u101
+4) Install
+5) To Set Up HOME PATH 
+6) Open CMD
+7) More info HERE (http://www.codejava.net/java-core/how-to-set-environment-variables-for-java-using-command-line)
+8) setx JAVA_HOME "C:\Program Files\Java\jdk1.8.0"  //Use 
+9) setx PATH "%PATH%;%JAVA_HOME%\bin"
+
+
+ANDROID IDE SET UP
+1) Download Latest Android Studio
+2) https://developer.android.com/studio/index.html
+3) Install Studio
+4) Follow prompts at installation to set up workspace as needed on computer.
+
+
+I am Assuming you know how to use GITHUB for submission and cloning. If not Let me know Ill update the doc.
+
+
+
